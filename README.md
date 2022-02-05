@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wheelton
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C++, Java, C#, JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a different Projects that will give me an opportunity to self develop
 - 📫 How to reach me +48730797556
 
 <!---
