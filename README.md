@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wheelton
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++, Python, Django, SQLite, Java, C#, JavaScript
+- 🌱 I’m currently learning React, C++, Python, Django, SQLite, Java, C#, JavaScript
 - 💞️ I’m looking to collaborate on a different Projects that will give me an opportunity to self develop
 - ✨ I'm looking for a job, so if you are an employer, let me know whether you have vacancy 
 - 📫 How to reach me +48730797556, +380662892960
